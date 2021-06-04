@@ -1,0 +1,3 @@
+include ':SimpleData'
+include ':app'
+rootProject.name = "TutorialApp"

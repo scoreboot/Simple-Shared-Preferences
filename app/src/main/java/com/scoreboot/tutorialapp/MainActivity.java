@@ -6,8 +6,6 @@ import android.os.Bundle;
 
 import com.scoreboot.simpledata.SPData;
 
-import java.util.Spliterator;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override

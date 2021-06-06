@@ -6,7 +6,7 @@
 <p><br><strong>Step 2. Add the dependency</strong></p>
 <p><br></p>
 <blockquote>
-    <p>dependencies {<br>&nbsp; &nbsp; &nbsp; &nbsp; implementation &apos;com.github.scoreboot:Simple-Data:1.0&apos;<br>}</p>
+    <p>dependencies {<br>&nbsp; &nbsp; &nbsp; &nbsp; implementation &apos;com.github.scoreboot:Simple-Shared-Preferences:1.0&apos;<br>}</p>
 </blockquote>
 <p><em><strong><br></strong></em><span style="font-size: 18px;"><strong><em>How do I use it?</em></strong></span></p>
 <p><br></p>
